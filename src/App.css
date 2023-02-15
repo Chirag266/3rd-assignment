@@ -1,0 +1,35 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  margin: 1rem;
+  padding: 1rem 2rem;
+  color: white;
+}
+
+button {
+  font-weight: bold;
+  font-size: 2rem;
+  padding: .1rem 2rem;
+}
+
+.color-green {
+  background-color: green;
+}
+
+.color-blue {
+  background-color: blue;
+}
+
+.color-red {
+  background-color: red;
+}
